@@ -1,0 +1,45 @@
+﻿#container {
+    width: auto;
+    height: 800px;
+    background-image: url("video-backgrounds-new-years-party-with-confetti-free-video-intro-and-video-loop-madartistpublishing.jpg");
+}
+
+#header {
+    background-color: black;
+    height: 250px;
+    width: auto;
+    text-align: center;
+    font-size: 25px;
+    /*margin-top: 5px;*/
+    border-style: solid;
+    border-color: #595959;
+    border-radius: 100px;
+    color: white;
+    margin-right: 40%;
+    margin-left: 40%;
+    font-family: 'Comic Sans MS';
+    border-width: 7px;
+}
+
+#counter {
+    font-size: 90px;
+    height: 125px;
+    width: 900px;
+    background-color: black;
+    margin-left: 25%;
+    margin-right: 20%;
+    margin-top: 5%;
+    font-family: 'Comic Sans MS';
+    text-align: center;
+    color: white;
+    border-radius: 50%;
+    border-color: #595959;
+    border-width: 10px;
+    border-style: solid;
+}
+
+#ticket {
+    margin-left: 50%;
+    margin-right: 50%;
+    background-image: url("gelogo.jpg");
+}
